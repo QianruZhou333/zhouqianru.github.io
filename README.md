@@ -1,17 +1,28 @@
 # Myths-of-Large-Language-Models
 
-####### [Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/28388036/Myths_of_Large_Language_Models.pdf)
+####### [Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/30209361/Myths_of_Large_Language_Models.pdf)
 
-The main-stream propaganda of Large language model is full of fraudulence and imposers. All the terminologies and technologies are either fraudulent or deviated from their genuine meaning.
+The Artificial Intelligence research community is severely misled by publications and propaganda. All the terminologies and technologies are either fraudulent or deviated from their genuine meaning.  
 
-#### Real NLP is Neuro-Linguistic Programming, not "nature language processing".
-#### Real Deep Model is the model of human being's deep consciousness. There is also a surface model, which represent human being's consciousness model.
-Everyone has a unique pattern when building deep model from their experience in the real world. That pattern can be extracted by neuro-linguistic programming, and expressed by formal first-order logic into a model. This model is the model of model, thus, meta model. As the models of human conscious and sub-consciousness are expressed with language, it can also be called language model, thus, LLM.
-#### Real Transformer is the technology of neuro-linguistic programming, namely tranformative grammar. It is a kind of generative grammer. 
-#### Real Large Language Model is the meta-model, model of how human build their model of the world based on their experience in real world.
+For example:
+#### “Deep model” is not a neural network model with deep layers, but a model representing human’s deep sub-conscious; 
+#### “NLP” does not stand for “nature language processing”, but rather “neuro-linguistic programming”, a technology to study and manipulate human’s subconsciousness; 
+#### “Transformer” stands for transformational grammar, which is a kind of generative grammar, the key technology of neuro-linguistic programming, that aims to manipulate human’s subconscious. 
+#### "Large Language Model" is the model of how human build their model of the world based on their experience in real world, because human's model of the world in the sub-consciousness is represented by language, thus it is called "language model", or "model of the model", thus, "meta-model".
 
 
-Machine learning models are really mathematic equations.
+More information can be found in paper: [Myths_of_Large_Language_Models.pdf](https://github.com/user-attachments/files/30209361/Myths_of_Large_Language_Models.pdf)
+
+also in: https://chinaxiv.org/abs/202606.00269
+
+
+<img width="1157" height="560" alt="屏幕截图 2026-06-07 132740" src="https://github.com/user-attachments/assets/ef8d9f09-b476-4264-990e-3059088e18cf" />
+
+#### All data are history data, because you cannot collect data from the future. 
+#### No matter how accuary the model fit the history, there will always be unexpected pattern in the future. The future will always filled with possibilities. 
+#### Using machine learning in real-life, is to constrain the future within history's pattern, forbid any innovation, refuse any changes, decline any revolutions. 
+
+There are only two kinds of things in the world: those who can be predicted, and those cannot. For the latter, any endeavors trying to predict their future are nothing but superstitions
 
 Can you find a mathematic equation that can describe the fragrance of a rose?
 
@@ -23,11 +34,10 @@ No, you cannot.
 
 If mathematic model cannot describe such trival things in human's life, why do you believe there is a machine learning model that can describe human's intelligence?
 
-
 Human's intelligence is impredicative. 
 
-Mathematicians hate impredicative. They call it ``a necessary evil'', ``closed loops of causality'', and ``bizarre systems''. Because an impredicative loop or self-referential chain of causal links cannot be represented as an algorithm that halts after a finite number of steps. In other words, an impredicative system cannot be solved by an algorithm. 
+Mathematicians hate impredicative. An impredicative system cannot be solved by an algorithm. 
 
-Then, why exactly does Large Language Model understand you so deeply? What is the real technology that make the large language models?
+How exactly does Large Language Model understand you so deeply? What is the real technology that make the large language models?
 
 Read my paper "Myths of Large Language Models", you will find it out.
